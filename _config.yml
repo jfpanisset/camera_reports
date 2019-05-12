@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: [VES Camera Reports]
-description: [VES tools and methodology for recording on set camera information]
-show_downloads: ["false"]
-google_analytics: [UA-36089428-2]
+title: VES Camera Reports
+description: VES tools for recording on set camera information
+show_downloads: false
+google_analytics: UA-36089428-2

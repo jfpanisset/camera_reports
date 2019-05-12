@@ -6,9 +6,9 @@
 **[Introduction to Specification](#interchange-format-introduction)**<br>
 **[How to be Involved](#how-to-be-involved)**<br>
 **[Download](#download)**<br>
-**[3rd Party Integration](#third-party-integration)**<br>
+**[3rd Party Integration](#3rd-party-integration)**<br>
 **[Links](#links)**<br>
-**[VES Technology Committee](#ves-technology-commitee)**<br>
+**[VES Technology Committee](#ves-technology-committee)**<br>
 
 ## Background
 
@@ -42,7 +42,7 @@ them easy to identify. The first line will include the file fields. For more det
 
 (https://docs.google.com/spreadsheet/pub?key=0AnE1uazTlVCGdDAtUkRwQlB4bWwxM0pKWGJneFZINmc&single=true&gid=2&output=html&range=A1%3ABG14")
 
-## How to be involved
+## How to be Involved
 
 Whether you are a studio, vfx vendor or data wrangler we welcome your input. Please review the camera report specification and give us feedback.
 

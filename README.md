@@ -36,17 +36,17 @@ them easy to identify. The first line will include the file fields. For more det
 
 Whether you are a studio, vfx vendor or data wrangler we welcome your input. Please review the camera report specification and give us feedback.
 
-Even if you have no input at this time, please join the [ves-tech-camera-reports](https://groups.google.com/forum/#!forum/ves-tech-camera-reports) google group.
+Even if you have no input at this time, please join the [ves-tech-camera-reports](https://groups.google.com/forum/#!forum/ves-tech-camera-reports) Google group.
 
 ## Downloads
 
-The camera reports are available to download as a filemaker database. This is intended as a
+The camera reports are available to download as a Filemaker database. This is intended as a
 baseline. We encourage 3rd party vendors to produce custom solutions that support this format as
 a standard for interchange.
 
 We plan to list additional 3rd party applications that support this interchange format. 3rd party
 support might allow integration directly with ingest, the digital cameras and script supervising
-systems, or simply a better interface than filemaker can provide.
+systems, or simply a better interface than Filemaker can provide.
 
 | File          | Version       | Size  |
 | ------------- |--------------:| ------:|
@@ -66,7 +66,7 @@ systems, or simply a better interface than filemaker can provide.
 ## Links
 
 * [Complete Camera Report Proposal](https://camerareports.org/assets/VESCameraReportProposal.html)
-* [Developer Guide](https://docs.google.com/document/d/1ZmPxV6TMdPYdJ2ixfQ9V2TtvRVMxLIpn1JrUAGpDTxI/pub) if you want to adapt the VES database, or if you want to adapt your own filemaker database to export the VES exchange format.
+* [Developer Guide](https://docs.google.com/document/d/1ZmPxV6TMdPYdJ2ixfQ9V2TtvRVMxLIpn1JrUAGpDTxI/pub) if you want to adapt the VES database, or if you want to adapt your own Filemaker database to export the VES exchange format.
 * [Change Log](https://docs.google.com/document/d/1_A8FBCWZtw2zkUlUi7f02W1UDLgDdBA7u_B1r3ZwsOc/pub) for the specification and camera reports
 * [License](https://camerareports.org/LICENSE.txt)
 * Samples and Screen shots

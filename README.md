@@ -38,7 +38,7 @@ Whether you are a studio, vfx vendor or data wrangler we welcome your input. Ple
 
 Even if you have no input at this time, please join the [ves-tech-camera-reports](https://groups.google.com/forum/#!forum/ves-tech-camera-reports) Google group.
 
-## Downloads
+## Download
 
 The camera reports are available to download as a FileMaker database. This is intended as a
 baseline. We encourage 3rd party vendors to produce custom solutions that support this format as

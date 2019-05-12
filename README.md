@@ -27,7 +27,10 @@ The secondary goals are:
 
 The file format is a csv file, that combines slates and takes into a single row per take,
 repeating the slate information for each row. The take fields will be prefixed by "tk" to make
-them easy to identify. The first line will include the file fields. For more details see: [Camera Report Interchange Format](https://docs.google.com/document/d/17CVfBa2a1m2lyve5NFIovfTFC76GF5DE8qdPD1Fd4UI/pub).
+them easy to identify. The first line will include the file fields. For more details see:
+[Camera Report Interchange Format](https://docs.google.com/document/d/17CVfBa2a1m2lyve5NFIovfTFC76GF5DE8qdPD1Fd4UI/pub).
+
+(https://docs.google.com/spreadsheet/pub?key=0AnE1uazTlVCGdDAtUkRwQlB4bWwxM0pKWGJneFZINmc&single=true&gid=2&output=html&range=A1%3ABG14")
 
 ## How to be involved
 
@@ -45,6 +48,14 @@ We plan to list additional 3rd party applications that support this interchange 
 support might allow integration directly with ingest, the digital cameras and script supervising
 systems, or simply a better interface than filemaker can provide.
 
+| File          | Version       | Size  |
+| ------------- |--------------:| ------:|
+| [Camera Report Database for Filemaker 12 and newer](https://camerareports.org/filemaker_12/ves_camera_reports.fmp12?raw=true) | version 2.1   | 2.9 MB |
+| [Camera Report Database for Filemaker 11](https://camerareports.org/filemaker_11/ves_camera_reports.fp7?raw=true) | version 1.1   |   7 MB |
+| [Self-contained Filemaker camera-report macOS application](https://camerareports.org/standalone/VES_CameraReport_Standalone.dmg?raw=true) |               |  59 MB |
+| Free iOS [Filemaker 17 to go](https://itunes.apple.com/us/app/filemaker-go-17/id1274628191?mt=8) app | |
+| [Blank camera report pdf](https://camerareports.org/assets/camera-report-print-1.0-blank.pdf) for a paper backup. | |
+
 ## 3rd Party Integration
 
 3rd party tools supporting the interchange format:
@@ -59,10 +70,10 @@ systems, or simply a better interface than filemaker can provide.
 * [Change Log](https://docs.google.com/document/d/1_A8FBCWZtw2zkUlUi7f02W1UDLgDdBA7u_B1r3ZwsOc/pub) for the specification and camera reports
 * [License](https://camerareports.org/LICENSE.txt)
 * Samples and Screen shots
-    * ![alt text](https://camerareports.org/images/camera-report-full-1.0-beta.png)
-    * ![alt text](https://camerareports.org/images/camera-report-print-1.0-beta.png)
-    * ![alt text](https://camerareports.org/images/ipad-1.png)
-    * ![alt text](https://camerareports.org/images/ipad-2.png)
+    * Laptop entry screen: ![Laptop entry screen](https://camerareports.org/images/camera-report-full-1.0-beta.png)
+    * Sample PDF output: ![Sample PDF output:](https://camerareports.org/images/camera-report-print-1.0-beta.png)
+    * iPad screenshot ![Pad screenshot 1](https://camerareports.org/images/ipad-1.png)
+    * iPad screenshot![iPad screenshot 2](https://camerareports.org/images/ipad-2.png)
 
 ## VES Technology Committee
 

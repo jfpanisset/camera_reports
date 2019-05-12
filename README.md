@@ -40,20 +40,20 @@ Even if you have no input at this time, please join the [ves-tech-camera-reports
 
 ## Downloads
 
-The camera reports are available to download as a Filemaker database. This is intended as a
+The camera reports are available to download as a FileMaker database. This is intended as a
 baseline. We encourage 3rd party vendors to produce custom solutions that support this format as
 a standard for interchange.
 
 We plan to list additional 3rd party applications that support this interchange format. 3rd party
 support might allow integration directly with ingest, the digital cameras and script supervising
-systems, or simply a better interface than Filemaker can provide.
+systems, or simply a better interface than FileMaker can provide.
 
 | File          | Version       | Size  |
 | ------------- |--------------:| ------:|
-| [Camera Report Database for Filemaker 12 and newer](https://camerareports.org/filemaker_12/ves_camera_reports.fmp12?raw=true) | version 2.1   | 2.9 MB |
-| [Camera Report Database for Filemaker 11](https://camerareports.org/filemaker_11/ves_camera_reports.fp7?raw=true) | version 1.1   |   7 MB |
-| [Self-contained Filemaker camera-report macOS application](https://camerareports.org/standalone/VES_CameraReport_Standalone.dmg?raw=true) |               |  59 MB |
-| Free iOS [Filemaker 17 to go](https://itunes.apple.com/us/app/filemaker-go-17/id1274628191?mt=8) app | |
+| [Camera Report Database for FileMaker 12 and newer](https://camerareports.org/filemaker_12/ves_camera_reports.fmp12?raw=true) | version 2.1   | 2.9 MB |
+| [Camera Report Database for FileMaker 11](https://camerareports.org/filemaker_11/ves_camera_reports.fp7?raw=true) | version 1.1   |   7 MB |
+| [Self-contained FileMaker camera-report macOS application](https://camerareports.org/standalone/VES_CameraReport_Standalone.dmg?raw=true) |               |  59 MB |
+| Free iOS [FileMaker Go 17](https://itunes.apple.com/us/app/filemaker-go-17/id1274628191?mt=8) app | |
 | [Blank camera report pdf](https://camerareports.org/assets/camera-report-print-1.0-blank.pdf) for a paper backup. | |
 
 ## 3rd Party Integration
@@ -66,7 +66,7 @@ systems, or simply a better interface than Filemaker can provide.
 ## Links
 
 * [Complete Camera Report Proposal](https://camerareports.org/assets/VESCameraReportProposal.html)
-* [Developer Guide](https://docs.google.com/document/d/1ZmPxV6TMdPYdJ2ixfQ9V2TtvRVMxLIpn1JrUAGpDTxI/pub) if you want to adapt the VES database, or if you want to adapt your own Filemaker database to export the VES exchange format.
+* [Developer Guide](https://docs.google.com/document/d/1ZmPxV6TMdPYdJ2ixfQ9V2TtvRVMxLIpn1JrUAGpDTxI/pub) if you want to adapt the VES database, or if you want to adapt your own FileMaker database to export the VES exchange format.
 * [Change Log](https://docs.google.com/document/d/1_A8FBCWZtw2zkUlUi7f02W1UDLgDdBA7u_B1r3ZwsOc/pub) for the specification and camera reports
 * [License](https://camerareports.org/LICENSE.txt)
 * Samples and Screen shots
@@ -78,7 +78,7 @@ systems, or simply a better interface than Filemaker can provide.
 ## VES Technology Committee
 
 This is been developed by Sam Richards as a project of the VES Technology Committee, with
-assistance from numerous visual effects artists and data-wranglers. The original Filemaker
+assistance from numerous visual effects artists and data-wranglers. The original FileMaker
 database used as a starting point for this project was graciously contributed by Rhythm and Hues.
 
 For more details about the VES and the VES technology committee, please see the [VES Home Page](http://www.visualeffectssociety.com/).

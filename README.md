@@ -91,7 +91,7 @@ This is been developed by Sam Richards as a project of the VES Technology Commit
 assistance from numerous visual effects artists and data-wranglers. The original FileMaker
 database used as a starting point for this project was graciously contributed by Rhythm and Hues.
 
-For more details about the VES and the VES technology committee, please see the [VES Home Page](http://www.visualeffectssociety.com/).
+For more details about the VES and the VES technology committee, please see the [VES Home Page](https://www.visualeffectssociety.com/).
 
 
 

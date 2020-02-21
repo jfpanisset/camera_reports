@@ -40,7 +40,9 @@ repeating the slate information for each row. The take fields will be prefixed b
 them easy to identify. The first line will include the file fields. For more details see:
 [Camera Report Interchange Format](https://docs.google.com/document/d/17CVfBa2a1m2lyve5NFIovfTFC76GF5DE8qdPD1Fd4UI/pub).
 
-[Sample Camera Reports Spreadsheet](https://docs.google.com/spreadsheet/pub?key=0AnE1uazTlVCGdDAtUkRwQlB4bWwxM0pKWGJneFZINmc&single=true&gid=2&output=html&range=A1%3ABG14)
+<p><iframe src="ttps://docs.google.com/spreadsheet/pub?key=0AnE1uazTlVCGdDAtUkRwQlB4bWwxM0pKWGJneFZINmc&single=true&gid=2&output=html&range=A1%3ABG14&embedded=true"></iframe></p>
+
+[Sample Camera Reports Spreadsheet](https://docs.google.com/spreadsheet/pub?key=0AnE1uazTlVCGdDAtUkRwQlB4bWwxM0pKWGJneFZINmc&single=true&gid=2&output=html&range=A1%3ABG14&embedded=true)
 
 ## How to be Involved
 

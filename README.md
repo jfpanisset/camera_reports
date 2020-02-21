@@ -40,11 +40,11 @@ repeating the slate information for each row. The take fields will be prefixed b
 them easy to identify. The first line will include the file fields. For more details see:
 [Camera Report Interchange Format](https://docs.google.com/document/d/17CVfBa2a1m2lyve5NFIovfTFC76GF5DE8qdPD1Fd4UI/pub).
 
-(https://docs.google.com/spreadsheet/pub?key=0AnE1uazTlVCGdDAtUkRwQlB4bWwxM0pKWGJneFZINmc&single=true&gid=2&output=html&range=A1%3ABG14")
+[Sample Camera Reports Spreadsheet](https://docs.google.com/spreadsheet/pub?key=0AnE1uazTlVCGdDAtUkRwQlB4bWwxM0pKWGJneFZINmc&single=true&gid=2&output=html&range=A1%3ABG14)
 
 ## How to be Involved
 
-Whether you are a studio, vfx vendor or data wrangler we welcome your input. Please review the camera report specification and give us feedback.
+Whether you are a studio, vfx vendor or data wrangler we welcome your input. Please review the camera report specification and [give us feedback](https://groups.google.com/forum/#!forum/ves-tech-camera-reports).
 
 Even if you have no input at this time, please join the [ves-tech-camera-reports](https://groups.google.com/forum/#!forum/ves-tech-camera-reports) Google group.
 
